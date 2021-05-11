@@ -1,0 +1,21 @@
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Selenium Test.exe
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Selenium Test.deps.json
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Selenium Test.runtimeconfig.json
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Selenium Test.runtimeconfig.dev.json
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Selenium Test.dll
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\Selenium Test.dll
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Selenium Test.pdb
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\WebDriver.dll
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Selenium Test.csprojAssemblyReference.cache
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Selenium Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Selenium Test.AssemblyInfoInputs.cache
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Selenium Test.AssemblyInfo.cs
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Selenium Test.csproj.CoreCompileInputs.cache
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Selenium Test.csproj.CopyComplete
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Selenium Test.dll
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Selenium Test.dll
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Selenium Test.pdb
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Selenium Test.genruntimeconfig.cache
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\v-hapuli\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\WebDriver.Support.dll
